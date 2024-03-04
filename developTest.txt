@@ -1,1 +1,2 @@
 Trying to see if develop will be separated from master if I commit this
+Dotting i's and crossing t's in the release 1.2 branch
