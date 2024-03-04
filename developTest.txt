@@ -1,2 +1,5 @@
 Trying to see if develop will be separated from master if I commit this
 Dotting i's and crossing t's in the release 1.2 branch
+
+Oh wow, something went really wrong there, fixing it all now in hotfix 1.2.1
+Fixed in a new commit, I think?
